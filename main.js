@@ -1,0 +1,3 @@
+const myFunc=()=>{
+    alert("myFunc")
+}
